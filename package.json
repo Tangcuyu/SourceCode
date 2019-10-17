@@ -1,0 +1,15 @@
+{
+  "name": "sourcecode",
+  "version": "1.0.0",
+  "description": "vue sourcecode learn",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
